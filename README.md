@@ -3,10 +3,10 @@ A compatibility matrix for django packages
 
 ## What is this
 
-This is a compatibility matrix for Django packages. For each Django version, starting from 1.4 you will find a version of each django package that is guaranteed to work with that Django version. All the info that is entered until now from my own projects. Contributions are more than welcome since I don't have projects for *all* django versions nor I use all django packages in all my projects.
+This is a compatibility matrix for Django packages. For each Django version, starting from Django 1.4 you will find a version of each django package that is guaranteed to work with that specific Django version. All the info that is entered until now comes from my own projects. Contributions are more than welcome since I don't have projects for *all* Django versions nor I use all Django packages in all my projects.
 
 
-
+## The Matrix
 
 |                                | 1.4   | 1.5   | 1.6   | 1.7   | 1.8   | 1.9   | 1.10   | 1.11   | 2.0   | 2.1   |
 | -------------------            |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:   |:---:   |:---:  |:---:  |
@@ -57,7 +57,9 @@ This is a compatibility matrix for Django packages. For each Django version, sta
 
 One huge PITA for me is when I need to install a django package (add-on) to a non-current Django version. Yes, I am totally aware that right now, only Django 1.11 (LTS) and Django 2.0 are supported. However, I have to confess that there are projects that I support and run Django versions 1.4, 1.6, 1.8 and 1.9. These are old projects that cannot be upgraded for a number of reasons, mainly because there are too few resources. So, although there are no resources for upgrading a Django 1.4 project to 1.11, there usually *are* resources to add some autocomplete features. Deciding which version of django-autocomplete-light to install is usually *not* trivial and, unless the project has a very good changelog most of the time you'll need to do some trial and error by installing different versions to find out one that actually works. This matrix wants to improve this.
 
-*Notice* I know that I should not use unsupported Django versions. I know you also know it and I warn you in case you are doing it. If it was in my hand I wouldn't ever do it, however I am not a decision maker and usually decision makers prefer adding features instead of upgrading to newer versions. Also, if that makes you more comfortable, almost all (especially the old ones) of the projects using unsupported Django versions are for projects that internal to the organization I work for so they are not visible to the public internet.
+*Notice* I know that I should not use unsupported Django versions. **I believe that you also know it and I warn you in case you are doing it.** However, usually it's not that easy :/
+
+Actually, if it was in my hand I would upgrade all projects to Django 2.0 before adding even one feature, however I am not a decision maker and usually decision makers prefer adding features instead of upgrading to newer versions. Also, if that makes you more comfortable, almost all (especially the old ones) of the projects using unsupported Django versions are for projects that internal to the organization I work for so they are not visible to the public internet.
 
 
 
