@@ -33,7 +33,8 @@ This is a compatibility matrix for Django packages. For each Django version, sta
 | django-model-utils             |       |       |       |2.2    |  2.2  |2.5    |        |        |       |       |   
 | django-model-translation       |       |       |       | 0.8   |0.12.1 |       |        |        |       |       |   
 | django-registration            |       |       |       |       |2.3    |       |        |        |       |       |   
-| django-rest-framework          |2.3.13 |       |       |3.0.3  |       |3.3.2  |        |        |       |       |   
+| django-rest-auth               |       |       |       |       |       |       |        |        | 0.9.3 |       |   
+| django-rest-framework          |2.3.13 |       |       |3.0.3  |       |3.3.2  |        |        | 3.7.7 |       |   
 | django-reversion               |1.6.6  |       | 1.8.5 |       |1.8.7  |2.0.6  |        |2.0.10  |2.0.13 |       |   
 | django-reversion-compare       |0.3.5  |       |       |       |       |0.7.1  |        |        |       |       |   
 | django-rq                      |       |       |       |       |       |0.9.2  |        |  0.9.6 |       |       |   
