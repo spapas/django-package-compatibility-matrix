@@ -1,5 +1,5 @@
 # django-package-compatibility-matrix
-A compatibility matrix for django packages
+A compatibility matrix for django packages. Either use the matrix contained here or visit https://django-package-compatibility-matrix.glitch.me/ for a much better UX with search!
 
 ## What is this
 
