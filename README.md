@@ -1,6 +1,14 @@
 # django-package-compatibility-matrix
 A compatibility matrix for django packages
 
+# What is this
+
+# Rationale
+
+# How to use
+
+# How to contribute
+
 
 |                                | 1.4   | 1.5   | 1.6   | 1.7   | 1.8   | 1.9   | 1.10   | 1.11   | 2.0   | 2.1   |
 | -------------------            |:---:  |:---:  |:---:  |:---:  |:---:  |:---:  |:---:   |:---:   |:---:  |:---:  |
