@@ -19,7 +19,7 @@ This is a compatibility matrix for Django packages. For each Django version, sta
 | django-braces                  |       |       |       |       |1.4.0  |       |        |        |       |       |   
 | django-celery                  |       |       |3.1.10 |       |3.1.10 |       |        |        |       |       |   
 | django-celery-email            |       |       |1.0.4  |       |       |       |        |        |       |       |   
-| django-classy-tags             |       |       | 1.4   |0.5.2  |0.5.2  |       |        |        |       |       |   
+| django-classy-tags             |       |       | 0.6.1 |0.6.1  |0.6.1  |       |        |        |       |       |   
 | django-compressor              |1.3    |       | 1.4   | 1.4   |1.4    |2.0    |        |  2.2   |2.2    |       |   
 | django-constance               |       |       |       |       |       |       |        |2.0.0   |       |       |   
 | django-crispy-forms            |       |       | 1.4.0 |1.4.0  |1.6.1  |1.6.1  |        | 1.6.1  |1.7.2  |       |   
