@@ -41,3 +41,4 @@ A compatibility matrix for django packages
 | django-widget-tweaks       |       |     | 1.3   |1.3    | 1.3   |1.4.1  |     |     |     |     |   
 | django-xhtml2pdf           |       |     | 0.0.3 |       |       |0.0.3  |     |     |     |     |   
 | easy-thumbnails            |       |     |       |  2.2  |       |       |     |     |     |     |   
+|                            | 1.4   | 1.5 | 1.6   | 1.7   | 1.8   | 1.9   | 1.10| 1.11| 2.0 | 2.1 |
