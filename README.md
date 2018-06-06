@@ -57,7 +57,7 @@ This is a compatibility matrix for Django packages. For each Django version, sta
 | **Django**                     |**1.4**|**1.5**|**1.6** |**1.7** |**1.8** |**1.9**  |**1.10** |**1.11** |**2.0**|**2.1**|
 
 
-!!!~
+!!~
 
 ## Rationale
 
