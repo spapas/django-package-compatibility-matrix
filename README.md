@@ -5,7 +5,8 @@ A compatibility matrix for django packages
 
 This is a compatibility matrix for Django packages. For each Django version, starting from Django 1.4 you will find a version of each django package that is guaranteed to work with that specific Django version. All the info that is entered until now comes from my own projects. Contributions are more than welcome since I don't have projects for *all* Django versions nor I use all Django packages in all my projects.
 
-~~~~~~
+!!!
+
 ## The Matrix
 
 |           Django               | 1.4   | 1.5   | 1.6    | 1.7    | 1.8    | 1.9     | 1.10    | 1.11    | 2.0   | 2.1   |
@@ -55,7 +56,8 @@ This is a compatibility matrix for Django packages. For each Django version, sta
 | easy-thumbnails                |       |       |        |  2.2   |        |         |         |         |       |       |   
 | **Django**                     |**1.4**|**1.5**|**1.6** |**1.7** |**1.8** |**1.9**  |**1.10** |**1.11** |**2.0**|**2.1**|
 
-~~~!~~~
+
+!!!~
 
 ## Rationale
 
