@@ -21,10 +21,11 @@ This is a compatibility matrix for Django packages. For each Django version, sta
 | django-celery-email            |       |       |1.0.4  |       |       |       |        |        |       |       |   
 | django-classy-tags             |       |       | 1.4   |0.5.2  |0.5.2  |       |        |        |       |       |   
 | django-compressor              |1.3    |       | 1.4   | 1.4   |1.4    |2.0    |        |  2.2   |2.2    |       |   
-| django-crispy-forms            |       |       | 1.4.0 |1.4.0  |1.6.1  |1.6.1  |        |        |1.7.2  |       |   
+| django-constance               |       |       |       |       |       |       |        |2.0.0   |       |       |   
+| django-crispy-forms            |       |       | 1.4.0 |1.4.0  |1.6.1  |1.6.1  |        | 1.6.1  |1.7.2  |       |   
 | django-debug-toolbar           |0.9.4  |       |1.3.0  |1.3.0  |       |1.6.7  |        |        |       |       |   
 | django-extensions              |1.3.3  |       |1.5.1  |1.5.1  |1.5.1  |1.6.7  |        |  1.9.1 |2.0.6  |       |   
-| django-extra-views             |0.7.0  |       |       |       |       |       |        |        |       |       |   
+| django-extra-views             |0.7.0  |       |       |       |       |       |        |  0.9.0 |       |       |   
 | django-filter                  |0.11.0 |       |0.11.0 |0.11.0 |0.15.3 |0.15.3 |        |1.0.4   |1.1.0  |       |   
 | django-floppy-forms            |       |       |       |       |1.4.0  |       |        |        |       |       |   
 | django-generic-scaffold        |       |       |       |       |       |       |        | 0.4.1  |       |       |   
@@ -34,7 +35,7 @@ This is a compatibility matrix for Django packages. For each Django version, sta
 | django-model-translation       |       |       |       | 0.8   |0.12.1 |       |        |        |       |       |   
 | django-registration            |       |       |       |       |2.3    |       |        |        |       |       |   
 | django-rest-auth               |       |       |       |       |       |       |        |        | 0.9.3 |       |   
-| django-rest-framework          |2.3.13 |       |       |3.0.3  |3.3.3  |3.3.3  |        |        | 3.7.7 |       |   
+| django-rest-framework          |2.3.13 |       |       |3.0.3  |3.3.3  |3.3.3  |        | 3.6.4  | 3.7.7 |       |   
 | django-reversion               |1.6.6  |       | 1.8.5 |       |1.8.7  |2.0.6  |        |2.0.10  |2.0.13 |       |   
 | django-reversion-compare       |0.3.5  |       |       |       |       |0.7.1  |        |        |       |       |   
 | django-rq                      |       |       |       |       |       |0.9.2  |        |  0.9.6 |       |       |   
