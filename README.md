@@ -45,13 +45,13 @@ This is a compatibility matrix for Django packages. For each Django version, sta
 | django-sendfile                |0.3.11 |       |        |        |        |0.3.11   |         | 0.3.11  |       |       |   
 | django-simple-history          |1.5.3  |       |        |        |        |         |         |         |       |       |   
 | django-simple-captcha          |       |       |        |0.5.3   |        |         |         |         |       |       |   
-| django-smoketest               |       |       |        |        |        |         |         | 1.1.0   |       |       |   
+| django-smoketest               |       |       | 1.1.0  |        |        |         |         | 1.1.0   |       |       |   
 | django-tables2                 |0.15.0 |       | 0.15.0 |0.15.0  |1.0.7   |1.2.3    |         | 1.21.2  |1.21.2 |       |   
 | django-tables2-column-shifter  |       |       |        |        |        |         |         | 0.4.0   |       |       |   
 | django-taggit                  |       |       |        |0.15.0  |        |         |         | 0.22.1  |       |       |   
 | django-verbatim                |       |       |        | 0.1    |        |         |         |         |       |       |   
 | django-waffle                  |0.10.1 |       |        |        |        |         |         |         |       |       |   
-| django-widget-tweaks           |       |       | 1.3    |1.3     | 1.3    |1.4.1    |         |1.4.1    |1.4.1  |       |   
+| django-widget-tweaks           |       |       | 1.3    | 1.3    | 1.3    |1.4.1    |         |1.4.1    |1.4.1  |       |   
 | django-xhtml2pdf               |       |       | 0.0.3  |        |        |0.0.3    |         |         |       |       |   
 | easy-thumbnails                |       |       |        |  2.2   |        |         |         |         |       |       |   
 | **Django**                     |**1.4**|**1.5**|**1.6** |**1.7** |**1.8** |**1.9**  |**1.10** |**1.11** |**2.0**|**2.1**|
