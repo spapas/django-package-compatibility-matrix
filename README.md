@@ -43,6 +43,7 @@ This is a compatibility matrix for Django packages. For each Django version, sta
 | django-reversion-compare       |0.3.5  |       |        |        |        |0.7.1    |         |         |       |       |   
 | django-rq                      |       |       |        |        |        |0.9.2    |         |  0.9.6  |       |       |   
 | django-rules-light             | 0.2.0 |       | 0.2.0  |        |0.2.0   |0.2.0    |         |         |       |       |   
+| django-salmonella              |0.6. 1 |       |        |        |        |         |         |         |       |       |   
 | django-sendfile                |0.3.11 |       |        |        |        |0.3.11   |         | 0.3.11  |       |       |   
 | django-simple-history          |1.5.3  |       |        |        |        |         |         |         |       |       |   
 | django-simple-captcha          |       |       |        |0.5.3   |        |         |         |         |       |       |   
