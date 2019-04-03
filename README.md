@@ -33,7 +33,7 @@ This is a compatibility matrix for Django packages. For each Django version, sta
 | django-generic-scaffold        | 0.2   | 0.2   | 0.5.2  | 0.5.2  | 0.5.2  | 0.5.2   | 0.5.2   | 0.5.2   |  0.5.2|       |   
 | django-import-export           |0.2.1  |       |        |        |        |         |         |         |       |       |   
 | django-localflavor             |       |       |  1.1   |        |        |         |         |         |       |       |   
-| django-maintenance-mode        |       |       |        |        |        | 0.11.0  |         |0.11.0   |       |       |   
+| django-maintenance-mode        |       |       |        |        |        | 0.11.0  |         |0.13.1   |       |       |   
 | django-memcached               |0.1.2  |       |        |        |        |         |         |         |       |       |   
 | django-model-utils             |       |       |        |2.2     |  2.2   |2.5      |         |         |       |       |   
 | django-model-translation       |       |       |        | 0.8    |0.12.1  |         |         |         |       |       |   
