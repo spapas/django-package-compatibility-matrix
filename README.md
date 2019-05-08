@@ -20,7 +20,7 @@ This is a compatibility matrix for Django packages. For each Django version, sta
 | django-braces                  |       |       |        |        |1.4.0   |         |         |         |       |       |   
 | django-celery                  |       |       |3.1.10  |        |3.1.10  |         |         |         |       |       |   
 | django-celery-email            |       |       |1.0.4   |        |        |         |         |         |       |       |   
-| django-classy-tags             |       |       | 0.6.1  |0.6.1   |0.6.1   |         |         |         |       |       |   
+| django-classy-tags             |       |       | 0.6.1  |0.6.1   |0.6.1   |         |         | 0.8.0   |       |       |   
 | django-cms                     |3.0.18 |3.0.18 | 3.2.5  | 3.2.5  | 3.5.2  | 3.5.2   |  3.5.2  | 3.5.2   |       |       |   
 | django-compressor              |1.3    |       | 1.4    | 1.4    |1.4     |2.0      |         |  2.2    |2.2    |       |   
 | django-constance               |       |       |        |        |        |         |         |2.0.0    |       |       |   
@@ -35,7 +35,7 @@ This is a compatibility matrix for Django packages. For each Django version, sta
 | django-localflavor             |       |       |  1.1   |        |        |         |         |         |       |       |   
 | django-maintenance-mode        |       |       |        |        |        | 0.11.0  |         |0.13.1   |       |       |   
 | django-memcached               |0.1.2  |       |        |        |        |         |         |         |       |       |   
-| django-model-utils             |       |       |        |2.2     |  2.2   |2.5      |         |         |       |       |   
+| django-model-utils             |       |       |        |2.2     |  2.2   |2.5      |         | 3.1.2   |       |       |   
 | django-model-translation       |       |       |        | 0.8    |0.12.1  |         |         |         |       |       |   
 | django-registration            |       |       |        |        |2.3     |         |         |         |       |       |   
 | django-dynamic-raw-id          |       |       |        |        |        |         |         | 2.5     |       |       |   
@@ -56,8 +56,8 @@ This is a compatibility matrix for Django packages. For each Django version, sta
 | django-verbatim                |       |       |        | 0.1    |        |         |         |         |       |       |   
 | django-waffle                  |0.10.1 |       |        |        |        |         |         |         |       |       |   
 | django-widget-tweaks           |       |       | 1.3    | 1.3    | 1.3    |1.4.1    |         |1.4.1    |1.4.1  |       |   
-| django-xhtml2pdf               |       |       | 0.0.3  |        |        |0.0.3    |         |         |       |       |   
-| easy-thumbnails                |       |       |        |  2.2   |        |         |         |         |       |       |   
+| django-xhtml2pdf               |       |       | 0.0.3  |        |        |0.0.3    |         |   0.0.3 |       |       |   
+| easy-thumbnails                |       |       |        |  2.2   |        |         |         |   2.6   |       |       |   
 | **Django**                     |**1.4**|**1.5**|**1.6** |**1.7** |**1.8** |**1.9**  |**1.10** |**1.11** |**2.0**|**2.1**|
 
 
