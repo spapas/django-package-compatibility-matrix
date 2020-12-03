@@ -15,7 +15,7 @@ This is a compatibility matrix for Django packages. For each Django version, sta
 | django-adminplus               |       |       |0.3     |        | 0.3    |         |         |         |       |       |       |       |       |
 | django-allauth                 |       |       |        |        |0.30.0  |         |         |         |       |       |0.39.1 |       |       |
 | django-auth-ldap               |1.2.0  |       |1.2.0   |1.2.4   |1.2.4   |1.2.8    |         | 1.2.16  |1.3.0  |       |       |2.1.0  |2.2.0  |
-| django-autocomplete-light      |       |       |        |        |3.1     |         |         |3.2.10   |       |       | 3.3.2 | 3.5.1 |       |
+| django-autocomplete-light      |2.0.9  |       |        |        |3.1     |         |         |3.2.10   |       |       | 3.3.2 | 3.5.1 |       |
 | django-bootstrap-form          |       |       |        |        |0.30.0  |         |         |         |       |       |       |       |       |
 | django-braces                  |       |       |        |        |1.4.0   |         |         |         |       |       |       |       |       |
 | django-celery                  |       |       |3.1.10  |        |3.1.10  |         |         |         |       |       |       |       |       |
@@ -54,7 +54,7 @@ This is a compatibility matrix for Django packages. For each Django version, sta
 | django-tables2-column-shifter  |       |       |        |        |        |         |         | 0.4.0   |       |       |       | 0.5.2 | 0.5.2 |
 | django-taggit                  |       |       |        |0.15.0  |        |         |         | 0.22.1  |       |       |       |       |       |
 | django-verbatim                |       |       |        | 0.1    |        |         |         |         |       |       |       |       |       |
-| django-waffle                  |0.10.1 |       |        |        |        |         |         |         |       |       |       |       |       |
+| django-waffle                  |0.10.1 |       |        |        |        |         |         |         |       |       |       |       |2.0.0  |
 | django-widget-tweaks           |       |       | 1.3    | 1.3    | 1.3    |1.4.1    |         |1.4.1    |1.4.1  |       |1.4.3  | 1.4.8 | 1.4.8 |
 | django-xhtml2pdf               |       |       | 0.0.3  |        |        |0.0.3    |         |   0.0.3 |       |       |       |       |       |
 | easy-thumbnails                |       |       |        |  2.2   |        |         |         |   2.6   |       |       |       |       |       |
